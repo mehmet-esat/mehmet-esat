@@ -30,19 +30,7 @@ I build modern, responsive and scalable web applications.
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="70" height="70"/>
 
 </div>
-<p align="center">
 
-  <img 
-    src="https://github-readme-stats-six-iota-53.vercel.app/api?username=mehmet-esat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats-six-iota-53.vercel.app/api/top-langs/?username=mehmet-esat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180"
-  />
-
-</p>
 ---
 
 </div>
@@ -54,6 +42,16 @@ I build modern, responsive and scalable web applications.
 <div align="center" width="4000">
 <img width="650" src="https://streak-stats.demolab.com?user=mehmet-esat&theme=tokyonight&hide_border=true" />
 </div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-six-iota-53.vercel.app/api?username=mehmet-esat&show_icons=true&theme=tokyonight&hide_border=true"
+    height="500" width="500"
+  />
+  <img
+    src="https://github-readme-stats-six-iota-53.vercel.app/api/top-langs/?username=mehmet-esat&layout=compact&theme=tokyonight&hide_border=true"
+    height="400" width="400"
+  />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
