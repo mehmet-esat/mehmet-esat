@@ -48,6 +48,9 @@ I build modern, responsive and scalable web applications.
     src="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/pacman-contribution-graph.svg">
 </picture>
 </div>
+<div align="center" width="4000">
+<img src="https://streak-stats.demolab.com?user=mehmet-esat&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
