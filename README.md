@@ -45,11 +45,11 @@ I build modern, responsive and scalable web applications.
 <p align="center">
   <img
     src="https://github-readme-stats-six-iota-53.vercel.app/api?username=mehmet-esat&show_icons=true&theme=tokyonight&hide_border=true"
-    height="500" width="500"
+    height="450" width="450"
   />
   <img
     src="https://github-readme-stats-six-iota-53.vercel.app/api/top-langs/?username=mehmet-esat&layout=compact&theme=tokyonight&hide_border=true"
-    height="400" width="400"
+    height="350" width="350"
   />
 </p>
 
