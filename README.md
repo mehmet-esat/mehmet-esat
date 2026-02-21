@@ -40,7 +40,7 @@ I build modern, responsive and scalable web applications.
 <div align="center">
 </div>
 <div align="center" width="4000">
-<img width="750" src="https://streak-stats.demolab.com?user=mehmet-esat&theme=tokyonight&hide_border=true" />
+<img width="650" src="https://streak-stats.demolab.com?user=mehmet-esat&theme=tokyonight&hide_border=true" />
 </div>
 
 <picture>
