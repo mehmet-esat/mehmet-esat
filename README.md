@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey!&fontSize=35&fontColor=00F7FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%3E+Building+The+Future&fontSize=35&fontColor=00F7FF&animation=fadeIn" />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Be+Your+Own+Hero;Frontend+Developer;Building+Modern+Web+Experiences;Code.+Create.+Repeat." />
