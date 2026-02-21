@@ -6,16 +6,18 @@
 
 ---
 
-## 👨‍💻 About Me
-
-Hi, I'm **Esat**  
-Frontend Developer from **Turkey 🇹🇷**  
-
+<h1> About Me </h1>
+<h2>
+Hi, I'm Esat <br>
+Frontend Developer from Turkey 🇹🇷
+<br>
+  <br>
 I build modern, responsive and scalable web applications.
+</h1>
 
 ---
 
-## 🚀 Tech Stack
+## <h1>Code With</h1>
 
 <div align="center">
 
@@ -29,13 +31,6 @@ I build modern, responsive and scalable web applications.
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
