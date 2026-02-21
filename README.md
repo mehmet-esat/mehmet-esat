@@ -41,11 +41,9 @@ I build modern, responsive and scalable web applications.
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/pacman-contribution-graph.svg" />
 
 </div>
 
