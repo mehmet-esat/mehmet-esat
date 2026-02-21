@@ -1,54 +1,66 @@
-<h1 align="left">Hey 👋I`m Esad</h1>
-
-###
-
-<h1 align="left">I`m Frontend Developer From Turkey</h1>
-
-###
-
-<h1 align="center">Code With</h1>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" alt="cplusplus logo"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Be+Your+Own+Hero;Frontend+Developer;Building+Modern+Web+Experiences;Code.+Create.+Repeat." />
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Esat**  
+Frontend Developer from **Turkey 🇹🇷**  
+
+I build modern, responsive and scalable web applications.
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="70" height="70"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70" height="70"/>
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmet-esat&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="300" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mehmet-esat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/mehmet-esat/mehmet-esat/output/snake.svg" alt="Snake animation" />
-
-###
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehmet-esat.mehmet-esat&"  />
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
 </div>
 
-###
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:mehmetesat132@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/esat_one" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
