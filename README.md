@@ -10,7 +10,8 @@
 <h1> About Me </h1>
 <h2>
 Hi, I'm Esat <br>
-Frontend Developer from Turkey 🇹🇷
+Frontend Developer from Turkey 🇹🇷 <br>
+  I'm student in Aydın
 <br>
   <br>
 I build modern, responsive and scalable web applications.
