@@ -21,15 +21,23 @@ I build modern, responsive and scalable web applications.
 
 ## <h1>Code With</h1>
 
+<div align="center" margin right="20px">
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70"/>
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70"/>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70"/>
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="70" height="70"/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70" height="70"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="70" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70" />
 
+</div>
 </div>
 
 ---
